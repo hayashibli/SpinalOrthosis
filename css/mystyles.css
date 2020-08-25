@@ -1,0 +1,30 @@
+body {background-color: rgb(79, 89, 99);
+
+
+}
+h1 {
+    background-color: lightslategray;
+    text-align: center;
+    font-size: 40px
+    
+}
+
+h3 {
+    background-color: lightslategray;
+    width: 7%;
+    font-size: 30px
+
+}
+nav ul li {
+
+    color:black;
+    border-style: solid;
+display: inline;
+margin-right: 150px;
+padding: 10px 10px 10px 10px;
+font-size: 20px
+
+}
+article {
+    font-weight: bold
+}
