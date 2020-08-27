@@ -20,11 +20,7 @@ function Case() {
 
         }
 
-        var numberofdevices = prompt('how many devices you need?');
-        for (var count=0; count< numberofdevices; count++) {
-            if (condition == "yes") {
-                patient = patient + 'check the first link'}
-
+    
 
         //output
         return (condition);
